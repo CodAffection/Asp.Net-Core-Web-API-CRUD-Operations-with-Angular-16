@@ -26,8 +26,6 @@ _____________________
 
  ## How it works ?
  
- :scroll: Article updated with Angular 11 
- Url : http://bit.ly/2WezUhy
  
  :tv: Video tutorial on this same topic  
  Url : https://youtu.be/OZGdKYzUYvU
